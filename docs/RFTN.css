@@ -34,7 +34,7 @@ li a {
 /* Change the link color on hover */
 li a:hover {
     background-color: #0A8ACA;
-    color: white;
+    color: #FFFFFF;
 }
 
 div.fixed {
